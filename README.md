@@ -7,7 +7,7 @@
   
 - 👋 Hi, I’m **@YuyaoFan**, an undergraduate student in Shanghai Jiao Tong University
 - 👀 I major in Mathematics and Artificial Intelligence
-- 🌱 I’m currently learning machine learning & algorithms & docker
+- 🌱 I’m currently learning machine learning & algorithms
 - 📫 My email address is fyy17205670398@sjtu.edu.cn
 - 📫 The other mail box is fanyuyao0322@gmail.com, but not in often use
 - 😄 Social platform: https://www.zhihu.com/people/54-72-20-35
