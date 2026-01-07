@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=45&pause=1000&center=true&vCenter=true&width=930&height=60&lines=Always+trying+new+things;Never+stop+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=45&pause=1000&center=true&vCenter=true&width=930&height=60&lines=Always+try+new+things;Never+stop+learning)](https://git.io/typing-svg)
 
 <html>
 <table style="margin-left: auto; margin-right: auto;">
