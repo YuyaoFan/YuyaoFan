@@ -4,11 +4,11 @@
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
   
-- 👋 Hi, I’m **@YuyaoFan**, an undergraduate student in Shanghai Jiao Tong University
-- 👀 I major in Mathematics and Applied Mathematics
-- 🌱 I’m currently learning Deep Learning Theory
+- 👋 Hi, I’m **@YuyaoFan**, a student in Shanghai Jiao Tong University
+- 👀 I major in Applied Statics
+- 🌱 I’m currently learning Recommendation System & Statics Learning
 - 📫 My email address is fyy17205670398@sjtu.edu.cn
-- 📫 The other mail box is fanyuyao0322@gmail.com, but not in often use
+- 📫 The other mail box is fanyuyao0322@gmail.com
 - 😄 Social platform: https://www.zhihu.com/people/54-72-20-35
 
 </tr>
@@ -19,8 +19,6 @@ YuyaoFan/YuyaoFan is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YuyaoFan&theme=github-compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuyaoFan/YuyaoFan/output/github-contribution-grid-snake-dark.svg">
